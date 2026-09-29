@@ -17,7 +17,7 @@ int main() {  // Função principal: é onde o programa começa a ser executado
 
 	const int MAX_CLIENTES = 5; // Constante com o limite máximo de clientes cadastrados
 
-	// VARIÁVEIS OBRIGATÓRIAS (agora vetores: uma posição por cliente)
+	// VARIÁVEIS OBRIGATÓRIAS (vetores: uma posição por cliente)
 	int numeroConta[MAX_CLIENTES];     // Vetor com o número da conta de cada cliente
 	string nomeCliente[MAX_CLIENTES];  // Vetor com o nome de cada titular
 	string senhaConta[MAX_CLIENTES];   // Vetor com a senha de cada titular
