@@ -1,7 +1,7 @@
 /******************************************************************************
-Trabalho – Implementação de um Sistema de
-Registro e Gestão de Contas Bancárias (ETAPA 1) – VERSÃO 4 (COMENTADA)
-(até 5 clientes, CPF numérico, senha forte, suporte a acentos)
+Implementação de um Sistema de Registro e Gestão de Contas Bancárias (ETAPA 1)
+Yan Moura Lima
+29/09/2026
 *******************************************************************************/
 
 #include <iostream>   // Biblioteca de entrada e saída (cin, cout, endl)
